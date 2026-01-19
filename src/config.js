@@ -5,7 +5,7 @@ export const config = {
   // Personal Information
   personal: {
     name: "Haluk Yuzukirmizi",
-    photo: "/Portfolio/Yuzukirmizi_Haluk.jpg", // Add your photo to the public folder
+    photo: "/Yuzukirmizi_Haluk.jpg", // Add your photo to the public folder
     summary: "I am a junior pursuing a B.S. in Computer Science with a Minor in Business at the University of Massachusetts Amherst. I am passionate about machine learning and artificial intelligence, I aim to further my education in the long run to develop myself more in these fields while eagerly preparing to launch my career in the industry after graduation. Fun fact, I love traveling different places and exploring cultures. I have been to Paris, Washington D.C., Frankfurt, Vienna, Prague and many more cities.",
     email: "hyuzukirmizi@umass.edu",
   },
@@ -17,7 +17,7 @@ export const config = {
   },
 
   // Resume Link
-  resumeUrl: "/Portfolio/resume.pdf", // Add your resume PDF to the public folder
+  resumeUrl: "/resume.pdf", // Add your resume PDF to the public folder
 
   // GitHub Configuration
   github: {
